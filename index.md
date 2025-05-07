@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Title: LIVABLOM
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
